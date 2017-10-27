@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/niklasjordan
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://niklasjordan.com
+  * I am niklasjordan (https://keybase.io/niklasjordan) on keybase.
+  * I have a public key ASAKrKT6eL8j61lOvI-CUVAik0ahCiNbfUGYlzGHBTpO6Qo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01200aaca4fa78bf23eb594ebc8f825150229346a10a235b7d4198973187053a4ee90a",
+      "host": "keybase.io",
+      "kid": "01200aaca4fa78bf23eb594ebc8f825150229346a10a235b7d4198973187053a4ee90a",
+      "uid": "9f64f9c593ecc3f1ec900404cec8bc19",
+      "username": "niklasjordan"
+    },
+    "merkle_root": {
+      "ctime": 1509094429,
+      "hash": "3e57d4922fc5a7c9bbfde51d2f470dfdb8de403a729776e0563a672a0bbdc95eac63827b047dcafcbcda90b6227d43b785ce864bb8050d1161ab90cb618f104d",
+      "hash_meta": "48143c2ea5a3015a74aa4a8dd2d29af4b834fdc4e9d3352e802097a449919492",
+      "seqno": 1636324
+    },
+    "service": {
+      "hostname": "niklasjordan.com",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.33"
+  },
+  "ctime": 1509094448,
+  "expire_in": 504576000,
+  "prev": "2ff06e5138dd962fbf84f808a6dedee4137291acd92b722f915e012e3488fd02",
+  "seqno": 17,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgCqyk+ni/I+tZTryPglFQIpNGoQojW31BmJcxhwU6TukKp3BheWxvYWTFA0x7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwMGFhY2E0ZmE3OGJmMjNlYjU5NGViYzhmODI1MTUwMjI5MzQ2YTEwYTIzNWI3ZDQxOTg5NzMxODcwNTNhNGVlOTBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwMGFhY2E0ZmE3OGJmMjNlYjU5NGViYzhmODI1MTUwMjI5MzQ2YTEwYTIzNWI3ZDQxOTg5NzMxODcwNTNhNGVlOTBhIiwidWlkIjoiOWY2NGY5YzU5M2VjYzNmMWVjOTAwNDA0Y2VjOGJjMTkiLCJ1c2VybmFtZSI6Im5pa2xhc2pvcmRhbiJ9LCJtZXJrbGVfcm9vdCI6eyJjdGltZSI6MTUwOTA5NDQyOSwiaGFzaCI6IjNlNTdkNDkyMmZjNWE3YzliYmZkZTUxZDJmNDcwZGZkYjhkZTQwM2E3Mjk3NzZlMDU2M2E2NzJhMGJiZGM5NWVhYzYzODI3YjA0N2RjYWZjYmNkYTkwYjYyMjdkNDNiNzg1Y2U4NjRiYjgwNTBkMTE2MWFiOTBjYjYxOGYxMDRkIiwiaGFzaF9tZXRhIjoiNDgxNDNjMmVhNWEzMDE1YTc0YWE0YThkZDJkMjlhZjRiODM0ZmRjNGU5ZDMzNTJlODAyMDk3YTQ0OTkxOTQ5MiIsInNlcW5vIjoxNjM2MzI0fSwic2VydmljZSI6eyJob3N0bmFtZSI6Im5pa2xhc2pvcmRhbi5jb20iLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjMzIn0sImN0aW1lIjoxNTA5MDk0NDQ4LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6IjJmZjA2ZTUxMzhkZDk2MmZiZjg0ZjgwOGE2ZGVkZWU0MTM3MjkxYWNkOTJiNzIyZjkxNWUwMTJlMzQ4OGZkMDIiLCJzZXFubyI6MTcsInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RApVlOd/C1qbCJK4A3fzv5HYSaHdGjcQLebVVQtRalubNYSW1a7+xVBtan36x2uK95Z6N/nj8AswZJZoeIuHixDqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEINhs57usyFdMZxaMoeIsLDrwS/tdFLuvmh5TGCMufjHro3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/niklasjordan
+
+==================================================================
